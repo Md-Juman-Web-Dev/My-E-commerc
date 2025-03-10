@@ -226,6 +226,7 @@ header {
 }
 .showmenu {
   transform: translateX(0);
+  z-index: 100000000;
 }
 .mobileNavBar {
   width: 100%;
