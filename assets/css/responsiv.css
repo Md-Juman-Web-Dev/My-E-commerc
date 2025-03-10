@@ -1,0 +1,19 @@
+#topBar p {
+  font-size: 12px;
+}
+#topBar p a {
+  font-size: 12px;
+}
+
+@media screen and (min-width: 991px) and (max-width: 1200px) {
+}
+@media screen and (min-width: 576px) and (max-width: 991px) {
+  .search-box {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .search-box {
+    width: 100%;
+  }
+}
